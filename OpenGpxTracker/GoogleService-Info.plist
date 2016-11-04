@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>359702789947-9qoa52h7safgb4clv7pe3k50qna3usgn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.359702789947-9qoa52h7safgb4clv7pe3k50qna3usgn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqSnvtyzGkIL34JtusFbmo-EMLPT-C0j0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>359702789947</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.proxicon.AirLog</string>
+	<key>PROJECT_ID</key>
+	<string>almat-air-log</string>
+	<key>STORAGE_BUCKET</key>
+	<string>almat-air-log.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:359702789947:ios:015c05c3d3f479c0</string>
+	<key>DATABASE_URL</key>
+	<string>https://almat-air-log.firebaseio.com</string>
+</dict>
+</plist>

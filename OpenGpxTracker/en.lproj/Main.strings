@@ -1,0 +1,102 @@
+
+/* Class = "UITextField"; placeholder = "Airport ICAO"; ObjectID = "2AK-5s-zba"; */
+"2AK-5s-zba.placeholder" = "Airport ICAO";
+
+/* Class = "UILabel"; text = "QNH:"; ObjectID = "3vc-rL-tur"; */
+"3vc-rL-tur.text" = "QNH:";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "4R9-15-DvF"; */
+"4R9-15-DvF.normalTitle" = "Log Out";
+
+/* Class = "UILabel"; text = "Please enter the airport ICAO:"; ObjectID = "8Ga-Kf-w2K"; */
+"8Ga-Kf-w2K.text" = "Please enter the airport ICAO:";
+
+/* Class = "UILabel"; text = "0m"; ObjectID = "9Ay-fN-694"; */
+"9Ay-fN-694.text" = "0m";
+
+/* Class = "UITabBarItem"; title = "Tracking"; ObjectID = "A3w-nx-VAu"; */
+"A3w-nx-VAu.title" = "Tracking";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "BGZ-oX-nPZ"; */
+"BGZ-oX-nPZ.placeholder" = "Password";
+
+/* Class = "UITabBarItem"; badgeValue = "Log"; ObjectID = "BHR-vQ-rIX"; */
+"BHR-vQ-rIX.badgeValue" = "Log";
+
+/* Class = "UITabBarItem"; title = "Air Log"; ObjectID = "BHR-vQ-rIX"; */
+"BHR-vQ-rIX.title" = "Air Log";
+
+/* Class = "UILabel"; text = "0.00 km/h"; ObjectID = "DyG-Hc-Qzj"; */
+"DyG-Hc-Qzj.text" = "0.00 km/h";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "EAe-m6-ogI"; */
+"EAe-m6-ogI.text" = "or";
+
+/* Class = "UILabel"; text = "elevation"; ObjectID = "Fjx-0o-Zlc"; */
+"Fjx-0o-Zlc.text" = "elevation";
+
+/* Class = "UILabel"; text = "Sky Condition:"; ObjectID = "GmJ-zY-Rxw"; */
+"GmJ-zY-Rxw.text" = "Sky Condition:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O1p-4P-tkj"; */
+"O1p-4P-tkj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Dewpoint:"; ObjectID = "Oiv-vl-lKL"; */
+"Oiv-vl-lKL.text" = "Dewpoint:";
+
+/* Class = "UILabel"; text = "Wind Direction:"; ObjectID = "Pe0-Lq-NBa"; */
+"Pe0-Lq-NBa.text" = "Wind Direction:";
+
+/* Class = "UIButton"; normalTitle = "Get current METAR"; ObjectID = "Qrx-9h-D7h"; */
+"Qrx-9h-D7h.normalTitle" = "Get current METAR";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "UhN-qa-5Ne"; */
+"UhN-qa-5Ne.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "0m"; ObjectID = "Yld-B9-gKj"; */
+"Yld-B9-gKj.text" = "0m";
+
+/* Class = "UIButton"; normalTitle = "Start Tracking"; ObjectID = "awg-pB-UBg"; */
+"awg-pB-UBg.normalTitle" = "Start Tracking";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "bHO-JK-ogd"; */
+"bHO-JK-ogd.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bUH-6C-5p4"; */
+"bUH-6C-5p4.text" = "Label";
+
+/* Class = "UILabel"; text = "Weather:"; ObjectID = "cdk-yj-Dob"; */
+"cdk-yj-Dob.text" = "Weather:";
+
+/* Class = "UILabel"; text = "Not getting location"; ObjectID = "iMA-mS-Liw"; */
+"iMA-mS-Liw.text" = "Not getting location";
+
+/* Class = "UILabel"; text = "Wind Speed:"; ObjectID = "n1k-bh-sHA"; */
+"n1k-bh-sHA.text" = "Wind Speed:";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "rLd-1J-B1V"; */
+"rLd-1J-B1V.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Almat AirLog"; ObjectID = "rZV-KF-JMn"; */
+"rZV-KF-JMn.text" = "Almat AirLog";
+
+/* Class = "UILabel"; text = "Observation Date/Time:"; ObjectID = "smU-kc-VVO"; */
+"smU-kc-VVO.text" = "Observation Date/Time:";
+
+/* Class = "UILabel"; text = "Login incorrect"; ObjectID = "tDA-LE-t4q"; */
+"tDA-LE-t4q.text" = "Login incorrect";
+
+/* Class = "UILabel"; text = "Temperature:"; ObjectID = "u5U-pE-pPN"; */
+"u5U-pE-pPN.text" = "Temperature:";
+
+/* Class = "UIButton"; normalTitle = "Log in with email"; ObjectID = "vEg-Ax-PV6"; */
+"vEg-Ax-PV6.normalTitle" = "Log in with email";
+
+/* Class = "UILabel"; text = "Visibility:"; ObjectID = "w6T-f4-aAw"; */
+"w6T-f4-aAw.text" = "Visibility:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "x4o-Hf-kCZ"; */
+"x4o-Hf-kCZ.normalTitle" = "Save";
+
+/* Class = "UITabBarItem"; title = "METAR"; ObjectID = "z5Z-fW-rQr"; */
+"z5Z-fW-rQr.title" = "METAR";

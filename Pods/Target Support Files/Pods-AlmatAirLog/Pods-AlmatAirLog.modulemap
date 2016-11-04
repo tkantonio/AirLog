@@ -1,0 +1,6 @@
+framework module Pods_AlmatAirLog {
+  umbrella header "Pods-AlmatAirLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
